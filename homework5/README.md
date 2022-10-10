@@ -11,3 +11,7 @@ docker run -it card
 docker run -it -p 9696:9696 card
 docker run -it --entrypoint=bash card     #to run bash from image
 ```
+**To test:**
+```
+python test4.py
+```
