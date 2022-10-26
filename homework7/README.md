@@ -13,7 +13,7 @@ class UserProfile(BaseModel):
     country: str  
     rating: float
 ```
-4. - `cat ~/bentoml/models/mlzoomcamp_homework/qtzdz3slg6mwwdu5/model.yaml`  
+4. `cat ~/bentoml/models/mlzoomcamp_homework/qtzdz3slg6mwwdu5/model.yaml`  
 Answer: 1.1.1
 
 5.  *What did we change for this question:*
