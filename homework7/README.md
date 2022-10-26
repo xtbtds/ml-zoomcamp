@@ -1,6 +1,6 @@
 1. 1.0.7
 
-2. - `bentoml models list`   
+2. `bentoml models list`   
  Answer: 197.77 KiB
 
 
